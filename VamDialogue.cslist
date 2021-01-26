@@ -1,0 +1,5 @@
+﻿plugin.cs
+Diagnostic.cs
+DialogueDebug.cs
+DialogueController.cs
+Dialogue_UI.cs
